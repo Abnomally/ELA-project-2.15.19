@@ -1,10 +1,4 @@
-<html>
-  <title>
-  THE BATTLE OF BUNKER HILL
-      By Max Seijn
-  </title>
-    
-  <body>
+
     The battle of bunker hill took place on June 17th, 1775. It was a battle between Great Britain and the Rebel colonists. It took place in the hills near Charlestown which is just across the bay from Boston. The battle was a victory for the British, but a bloody one. They lost over 1000 men, more than double the American casualties. For the Americans, it was a major morale-boosting win. Even though they lost their position, it proved to them that the British could be defeated and that was not in fact invincible.
   
   
@@ -86,13 +80,3 @@ The issue of territorial expansion drives this whole conflict. The Americans wan
     Americas urge to control itself and the land around it, America would not exist today because it would have been torn to shreds 
     and divided up by the European powers.
 
-</body>
-  
-  <style>
-    { body
-     background-color:green;
-      color:#FFF;
-      text-align:center;
-    }
-    </style>
-</html>
