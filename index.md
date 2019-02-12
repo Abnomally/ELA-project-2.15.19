@@ -7,13 +7,28 @@
   <body>
     The battle of bunker hill took place on June 17th, 1775. It was a battle between Great Britain and the Rebel colonists. It took place in the hills near Charlestown which is just across the bay from Boston. The battle was a victory for the British, but a bloody one. They lost over 1000 men, more than double the American casualties. For the Americans, it was a major morale-boosting win. Even though they lost their position, it proved to them that the British could be defeated and that was not in fact invincible.
 Table of contents 
-RQ1/Timeline 		
+  
+  
+RQ1/Timeline 
+  
+  
 RQ2/Map and geography
+
+
 RQ3/Causes and Issues
+
+
 RQ4/Personalities and groups
+
+
 RQ6/Issue of territorial expansion
+
+
 RQ8/Constitutional principals 
+
+
 RQ9/Legacy
+
 
 Timeline
 The first event of the timeline would be British generals deciding to use the hills around Charlestown to have full control over the 
