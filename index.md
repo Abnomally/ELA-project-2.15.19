@@ -6,6 +6,8 @@
     
   <body>
     The battle of bunker hill took place on June 17th, 1775. It was a battle between Great Britain and the Rebel colonists. It took place in the hills near Charlestown which is just across the bay from Boston. The battle was a victory for the British, but a bloody one. They lost over 1000 men, more than double the American casualties. For the Americans, it was a major morale-boosting win. Even though they lost their position, it proved to them that the British could be defeated and that was not in fact invincible.
+  
+  
 Table of contents 
   
   
@@ -42,16 +44,12 @@ The first event of the timeline would be British generals deciding to use the hi
     couldn’t shoot back. After this, the British take control over the hill and bring up cannons to set up on the hill to retain 
     control of the harbor and for bombardment purposes.
 
-
-
 Geography
 The area the battle was fought in was on a hill. It was situated on a peninsula near Boston and near the town of Charlestown. 
     The geography was quite important because it is what caused the battle. If the hill had not been there, the battle probably
     would not have been fought and more likely if it has the British forces would have won with ease. This Map shows how the American
     defense was set up and how the British attacked and the general area around the battle. Charlestown had been burned before the 
     battle so there were only ruins there.
-
- 
 
 Causes/Issues
 The reason the British wanted and needed the hill was to break out of Boston.
@@ -63,8 +61,6 @@ At the time of the battle, Boston was locked down by 12,000 militiamen, effectiv
     battle if they were able to fire cannons at the colonist and therefore sent a detachment to gain and control the hill. The colonists
     also figured out that they could bring heavy artillery down from fort Ticonderoga and begin shelling the British defenses from afar
     and begin driving out the British form Boston 
-
-
 
 Personalities and Groups 
  The Two main combatants would be the rebel colonists and the British empire. Due to the battle being fought in Boston, these were the
