@@ -14,7 +14,7 @@ RQ2/Map and geography
 RQ3/Causes and Issues
 
 
-RQ4/Personalities and groups
+#RQ4/Personalities and groups
 
 
 RQ6/Issue of territorial expansion
@@ -26,7 +26,7 @@ RQ8/Constitutional principals
 RQ9/Legacy
 
 
-<h1> Timeline
+#Timeline
 The first event of the timeline would be British generals deciding to use the hills around Charlestown to have full control over the 
     harbor and a way to break out of the city. Then, American spies learn of the plan and pass it on to the American generals. Then 
     American generals send troops to fortify a hilltop named bunker hill, but they ended up fortifying a hill called breeds hill. After 
@@ -38,7 +38,7 @@ The first event of the timeline would be British generals deciding to use the hi
     couldn’t shoot back. After this, the British take control over the hill and bring up cannons to set up on the hill to retain 
     control of the harbor and for bombardment purposes.
 
-Geography
+#Geography
 The area the battle was fought in was on a hill. It was situated on a peninsula near Boston and near the town of Charlestown. 
     The geography was quite important because it is what caused the battle. If the hill had not been there, the battle probably
     would not have been fought and more likely if it has the British forces would have won with ease. This Map shows how the American
