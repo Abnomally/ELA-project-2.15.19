@@ -26,7 +26,7 @@ RQ8/Constitutional principals
 RQ9/Legacy
 
 
-Timeline
+<h1> Timeline
 The first event of the timeline would be British generals deciding to use the hills around Charlestown to have full control over the 
     harbor and a way to break out of the city. Then, American spies learn of the plan and pass it on to the American generals. Then 
     American generals send troops to fortify a hilltop named bunker hill, but they ended up fortifying a hill called breeds hill. After 
@@ -79,4 +79,8 @@ The issue of territorial expansion drives this whole conflict. The Americans wan
     different today. Britain was always on the lookout for more area to expand into and probably would have taken it. Without
     Americas urge to control itself and the land around it, America would not exist today because it would have been torn to shreds 
     and divided up by the European powers.
+    
+    Legacy
+The legacy that bunker hill has is that Americans fought the British, an overwhelming foe and against all odds beat them. While they lost the ground they had, the rebel colonists had beaten the British hard and proved to themselves that they could and would do it and defeat the British empire. The battle of bunker hill resulted in a very proud people because they had won against a global superpower with a group of scrounged up farmers. This aided in creating a very prideful and almost a little prejudiced national identity to other countries. 
+
 
